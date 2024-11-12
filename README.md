@@ -14,5 +14,8 @@ The game can be restarted again by clicking on restart button down there
 
 
 <img width="543" alt="Screenshot 2024-11-12 at 12 34 44 PM" src="https://github.com/user-attachments/assets/9feec359-e113-4d30-92c0-108238df52fb">
+
+
+
 The final image shows the first player is the winner 
 Hence the game ends in such manner or the player may restart the game furthur 
